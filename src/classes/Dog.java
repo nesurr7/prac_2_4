@@ -10,7 +10,7 @@ public class Dog {
         this.ageOfDog = ageOfDog;
     }
 
-    Dog() {
+    Dog() {//инициализирован пустой объект
         this.nameOfDog = "undefined";
         this.ageOfDog = -1;
     }
