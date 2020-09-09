@@ -1,8 +1,8 @@
 package classes;
 public class Dog {
     //Свойства
-    String nameOfDog;
-    int ageOfDog;
+    private String nameOfDog;
+    private int ageOfDog;
 
     //Конструкторы
     Dog(String nameOfDog, int ageOfDog) {
